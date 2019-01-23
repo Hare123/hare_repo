@@ -1,2 +1,2 @@
 # hare_repo
-Test purpose
+Test purpose . to learn about git bash 
